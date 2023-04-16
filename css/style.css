@@ -124,7 +124,7 @@ p a:hover {
 	overflow: hidden;
 	padding: 45px 40px 46px;
 }
-#body > h2 {
+h2 {
 	color: #21a51e;
 	font-family: 'nixie_oneregular';
 	font-size: 35px;
