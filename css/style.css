@@ -183,6 +183,18 @@ p a:hover {
 	margin: 0;
 	padding: 25px 0 0;
 }
+
+#body div.content h4,
+#body form h4,
+#body ul.blog li h4 {
+	font-family: 'nixie_oneregular';
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 30px;
+	margin: 0;
+	padding: 25px 0 0;
+}
+
 #body div.content h3:first-child,
 #body div.content div div.section:first-child {
 	padding: 0;
